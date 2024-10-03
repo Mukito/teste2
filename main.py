@@ -179,7 +179,7 @@ class Form(ft.Container):
         self.row4: ft.Container = text_field_container(True, "Linha Quatro", self.row4_value)
         # Define o botao 
         self.submit = ft.ElevatedButton(
-            text="Submit",              #Enviar
+            text="Enviar",              #Enviar
             style=ft.ButtonStyle(shape={"": ft.RoundedRectangleBorder(radius=8)}),
             on_click=self.submit_data,
         )
@@ -222,7 +222,8 @@ class Form(ft.Container):
 
 # Define alguns estilos, atributos e colunas da tabela de dados
 column_names: list[str] = [
-    "Column One", "Column Tow", "Column Three", " Column Four",
+    #"Column One", "Column Tow", "Column Three", " Column Four",
+    "Coluna Um", "Coluna Dois", "Coluna Três", "Coluna Quatro",
 ]
 
 data_table_style: dict[str, any] = {
