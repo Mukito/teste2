@@ -222,7 +222,7 @@ class Form(ft.Container):
 
 # Define alguns estilos, atributos e colunas da tabela de dados
 column_names: list[str] = [
-    "Column One", "Column Tow", "Column Three", " Column Four",
+    "Column One", "Column Two", "Column Three", " Column Four",
 ]
 
 data_table_style: dict[str, any] = {
