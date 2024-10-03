@@ -1,5 +1,7 @@
 
 # Tabela de dados
 
-![image](https://github.com/user-attachments/assets/e3806c9d-853b-4233-b5fe-d5e1fa42285c)
+
+![image](https://github.com/user-attachments/assets/4ce7e865-8224-4026-a453-8a9ffb2834a8)
+
 
